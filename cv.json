@@ -1,0 +1,263 @@
+{
+  "basics": {
+    "name": "Daniel Lasauskas",
+    "label": "Front End Developer focused on building products with extra attencion to detail.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0M9jXZQed6OUNbEKdoP-zpPeZNsAYDcZnw&s",
+    "email": "danlasauskas@gmail.com",
+    "phone": "(+34) 630 43 05 10",
+    "url": "https://johndoe.com",
+    "summary": "Hola!! Mi nombre es Daniel Lasauskas, soy una apasionado programador con un ojo critico para el diseño y una habilidad innata para transformar conceptos creativos en experiencias digitales impactantes. Con una solida formacion en diseño web y una trayectomria probada en la creacion de interfaces intuitivas y atractivas, tengo el profundo compromiso con la excelencia en cada proyecto que participo.",
+    "location": {
+      "address": "San Clemente 81, 1 Piso, Dpto 24",
+      "postalCode": "38108",
+      "city": "La Laguna",
+      "countryCode": "ES",
+      "region": "Santa Cruz de Tenerife"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Daniel Lasauskas",
+        "url": "https://www.linkedin.com/in/daniel-lasauskas-92aa5b155/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mazingerKaizer",
+        "url": "https://github.com/mazingerKaizer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "VML",
+      "position": "Email Developer",
+      "url": "https://www.vml.com/es/argentina",
+      "startDate": "2019-12-16",
+      "endDate": "2024-02-29",
+      "summary": "Creacion de emails responsivos, para diferentes campañas de marketing. Priorizar la usabilidad y accesibilidad. Seguimiento de metricas para ajustes. Actualizacion constante y adaptacion a nuevas tendencias en el mundo digital",
+      "highlights": ["Started the company"]
+    },    
+
+    {
+      "name": "MRM Mcann",
+      "position": "Analista de Datos",
+      "url": "https://www.mccann.com.ar/",
+      "startDate": "2015-02-03",
+      "endDate": "2019-12-09",
+      "summary": "Creación de informes y visualizaciones que presenten los hallazgos de manera clara y comprensible, colaborar con otros equipos para entender sus necesidades de datos y proporcionar soluciones basadas en datos para mejorar procesos y estrategias.",
+      "highlights": ["Started the company"]
+    },
+
+    {
+      "name": "XIMIO",
+      "position": "Maquetador web",
+      "url": "",
+      "startDate": "2012-06-04",
+      "endDate": "2015-01-12",
+      "summary": "Diseño y maquetación responsiva para sitios web con alto tráfico, optimizando la experiencia del usuario. Creación y diseño de banners atractivos y efectivos para comunicación visual impactante. Enfoque en soluciones visuales innovadoras que combinen creatividad y funcionalidad.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+ "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },   
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+    
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
